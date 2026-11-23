@@ -6,7 +6,7 @@ module.exports = {
 		name: "admin",
 		aliases: ["ad"],
 		version: "4.0.0",
-		author: "0xMr_King x ┃ Tanin Islam",
+		author: "Su baru x ┃ Tilu Soytan👿",
 		countDown: 5,
 		role: 2,
 		description: {
