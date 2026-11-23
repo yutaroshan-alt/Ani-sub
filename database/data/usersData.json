@@ -1,0 +1,804 @@
+[
+  {
+    "userID": "61593801485340",
+    "name": "Ji Raya",
+    "gender": 0,
+    "vanity": "masterjiraya001",
+    "exp": 600,
+    "money": 1432764,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 56,
+          "pair": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-18T10:14:17Z",
+    "updatedAt": "2026-11-23T05:40:18Z",
+    "slotLimit": {
+      "startedAt": 1795346699602,
+      "count": 2
+    }
+  },
+  {
+    "userID": "61596674610957",
+    "name": "Toki Islam",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-18T10:15:50Z",
+    "updatedAt": "2026-11-18T10:15:50Z"
+  },
+  {
+    "userID": "61592422092604",
+    "name": "Su Baru",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 5
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-18T10:15:51Z",
+    "updatedAt": "2026-11-22T21:42:18Z"
+  },
+  {
+    "userID": "61560521295420",
+    "name": "Raihan A.",
+    "gender": 0,
+    "vanity": "raihanrifat0007",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-18T10:17:23Z",
+    "updatedAt": "2026-11-18T10:17:23Z"
+  },
+  {
+    "userID": "61555305611243",
+    "name": "Ki Mi",
+    "gender": 0,
+    "vanity": "rinbu.suji",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-18T12:01:46Z",
+    "updatedAt": "2026-11-18T12:01:46Z"
+  },
+  {
+    "userID": "61596678055483",
+    "name": "Tawhid Islam",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-18T12:02:03Z",
+    "updatedAt": "2026-11-18T12:02:03Z"
+  },
+  {
+    "userID": "61554722847153",
+    "name": "Rumana Akter",
+    "gender": 0,
+    "vanity": "ichika.amasawa.732184",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-18T12:03:39Z",
+    "updatedAt": "2026-11-18T12:03:39Z"
+  },
+  {
+    "userID": "61591169410501",
+    "name": "No-King Madara",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "20/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-18T12:04:51Z",
+    "updatedAt": "2026-11-20T05:11:59Z"
+  },
+  {
+    "userID": "61594870157928",
+    "name": "Sheikh Siyam",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-18T12:32:34Z",
+    "updatedAt": "2026-11-18T12:32:34Z"
+  },
+  {
+    "userID": "61578338285370",
+    "name": "Tanha Ahamed",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 2
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-19T04:19:57Z",
+    "updatedAt": "2026-11-23T04:43:17Z"
+  },
+  {
+    "userID": "100089336527642",
+    "name": "Wå Bø",
+    "gender": 0,
+    "vanity": "wabo.ana.sta.sia",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-19T10:21:06Z",
+    "updatedAt": "2026-11-19T10:21:06Z"
+  },
+  {
+    "userID": "61584165706216",
+    "name": "আহমেদ আবির",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "19/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-19T11:04:56Z",
+    "updatedAt": "2026-11-19T11:04:56Z"
+  },
+  {
+    "userID": "61568795931776",
+    "name": "Safat AHmed",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-19T11:11:18Z",
+    "updatedAt": "2026-11-22T19:42:06Z"
+  },
+  {
+    "userID": "100090895866311",
+    "name": "Rafi Chowdhurý II",
+    "gender": 0,
+    "vanity": "x4x.rafi",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "22/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 5
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-19T12:58:16Z",
+    "updatedAt": "2026-11-22T06:07:15Z"
+  },
+  {
+    "userID": "61594257270925",
+    "name": "Raihan Elio",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "20/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 13
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T05:06:46Z",
+    "updatedAt": "2026-11-20T05:13:55Z"
+  },
+  {
+    "userID": "61579149158144",
+    "name": "Muzūki Mutahā",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "20/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 5
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T05:10:10Z",
+    "updatedAt": "2026-11-20T05:13:35Z"
+  },
+  {
+    "userID": "61593191341531",
+    "name": "Khâdîjâ Âktár",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "20/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T06:11:05Z",
+    "updatedAt": "2026-11-20T06:11:05Z"
+  },
+  {
+    "userID": "61596366377741",
+    "name": "Roshan Shekh",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-20T09:15:20Z",
+    "updatedAt": "2026-11-20T09:15:20Z"
+  },
+  {
+    "userID": "61596489878959",
+    "name": "Momo Chan",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "20/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T09:32:42Z",
+    "updatedAt": "2026-11-20T09:32:42Z"
+  },
+  {
+    "userID": "61552552190992",
+    "name": "エナン・ ハサント",
+    "gender": 0,
+    "vanity": "hairo18.max",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "21/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T11:15:17Z",
+    "updatedAt": "2026-11-21T11:48:54Z"
+  },
+  {
+    "userID": "61595106187744",
+    "name": "Len N OX",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T11:40:21Z",
+    "updatedAt": "2026-11-23T05:08:12Z"
+  },
+  {
+    "userID": "61596800369348",
+    "name": "Samar Id",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "20/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 3
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-20T12:02:57Z",
+    "updatedAt": "2026-11-20T12:05:01Z"
+  },
+  {
+    "userID": "61596602018792",
+    "name": "Ali Ya",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-21T06:37:19Z",
+    "updatedAt": "2026-11-21T06:37:19Z"
+  },
+  {
+    "userID": "61596530067720",
+    "name": "Zhao Lusi II",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 100000000000000000000,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "22/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 41,
+          "pair": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-21T08:03:05Z",
+    "updatedAt": "2026-11-22T06:09:25Z"
+  },
+  {
+    "userID": "61595184880753",
+    "name": "Bae Suzy",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "21/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-21T08:05:01Z",
+    "updatedAt": "2026-11-21T08:05:01Z"
+  },
+  {
+    "userID": "61596139776365",
+    "name": "Alu Chan",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "21/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 28
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-21T08:30:46Z",
+    "updatedAt": "2026-11-21T09:19:15Z"
+  },
+  {
+    "userID": "100053054567787",
+    "name": "প্রি্ঁয়্ঁত্ঁমা্ঁর্ঁ অ্ঁপে্ঁক্ষা্ঁয়্ঁ",
+    "gender": 0,
+    "vanity": "Ismailbabu6320",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "21/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-21T11:51:39Z",
+    "updatedAt": "2026-11-21T11:51:39Z"
+  },
+  {
+    "userID": "61596894836612",
+    "name": "Aliya Sen",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {},
+    "createdAt": "2026-11-21T23:31:24Z",
+    "updatedAt": "2026-11-21T23:31:24Z"
+  },
+  {
+    "userID": "61595541741902",
+    "name": "Kristina Bennett",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 13
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-22T06:05:45Z",
+    "updatedAt": "2026-11-23T04:47:13Z"
+  },
+  {
+    "userID": "61595861295845",
+    "name": "Hinata Eclipse",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "22/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 9
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-22T11:19:36Z",
+    "updatedAt": "2026-11-22T14:42:19Z"
+  },
+  {
+    "userID": "61557796736884",
+    "name": "Sewon Ryo",
+    "gender": 0,
+    "vanity": "KakashiHatake.28",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "22/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 7
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-22T14:15:06Z",
+    "updatedAt": "2026-11-22T14:19:05Z"
+  },
+  {
+    "userID": "61577521203934",
+    "name": "Rifat Hasan",
+    "gender": 0,
+    "vanity": null,
+    "exp": 300,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "22/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 17,
+          "slot": 1
+        },
+        "claimed": {},
+        "lastDaily": "22/11/2026"
+      }
+    },
+    "createdAt": "2026-11-22T14:16:23Z",
+    "updatedAt": "2026-11-22T14:22:19Z",
+    "slotLimit": {
+      "startedAt": 1795357331370,
+      "count": 1
+    }
+  },
+  {
+    "userID": "100047508301760",
+    "name": "Munna Hasan",
+    "gender": 0,
+    "vanity": "munna4m",
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "22/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 2
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-22T14:17:35Z",
+    "updatedAt": "2026-11-22T14:20:09Z"
+  },
+  {
+    "userID": "61594925012625",
+    "name": "Satono Diamond",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-22T19:34:17Z",
+    "updatedAt": "2026-11-22T19:34:17Z"
+  },
+  {
+    "userID": "61595550686957",
+    "name": "Vycen Abyssvane II",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 71
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-23T04:49:29Z",
+    "updatedAt": "2026-11-23T05:28:12Z"
+  },
+  {
+    "userID": "61586966348702",
+    "name": "Raisa Moni",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 68
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-23T04:49:34Z",
+    "updatedAt": "2026-11-23T05:27:29Z"
+  },
+  {
+    "userID": "61596097505319",
+    "name": "Tasnim Z'ara",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 59
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-23T04:49:46Z",
+    "updatedAt": "2026-11-23T05:28:01Z"
+  },
+  {
+    "userID": "61595876955973",
+    "name": "Tanvir Islam",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 139
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-23T04:50:38Z",
+    "updatedAt": "2026-11-23T05:27:57Z"
+  },
+  {
+    "userID": "61589609423643",
+    "name": "Sifat Mahmud Siam",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 1
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-23T05:06:46Z",
+    "updatedAt": "2026-11-23T05:06:46Z"
+  },
+  {
+    "userID": "61590350394746",
+    "name": "Bbz Anika",
+    "gender": 0,
+    "vanity": null,
+    "exp": 0,
+    "money": 0,
+    "banned": {},
+    "settings": {},
+    "data": {
+      "daily": {
+        "day": "23/11/2026",
+        "progress": {
+          "msg1": 1,
+          "msg200": 2
+        },
+        "claimed": {}
+      }
+    },
+    "createdAt": "2026-11-23T05:38:19Z",
+    "updatedAt": "2026-11-23T05:38:21Z"
+  }
+]
