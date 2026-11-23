@@ -1,0 +1,204 @@
+{
+  "facebookAccount": {
+    "email": "",
+    "password": "",
+    "2FASecret": "",
+    "i_user": "",
+    "proxy": null,
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
+    "intervalGetNewCookie": 1440,
+    "notes": "time the system automatically retrieves new cookies from email/password"
+  },
+  "antiInbox": false,
+  "language": "en",
+  "notesLanguage": "change to your language with an ISO 639-1 code, for example en or bn; missing language files or keys fall back to English",
+  "adminOnly": {
+    "enable": false,
+    "ignoreCommand": []
+  },
+  "developerOnly": {
+    "enable": false,
+    "ignoreCommand": []
+  },
+  "vipOnly": {
+    "enable": false,
+    "ignoreCommand": []
+  },
+  "adminBot": [
+    "61593801485340"
+  ],
+  "developer": [
+    "61593801485340"
+  ],
+  "vipuser": [
+    "61593801485340"
+  ],
+  "author": "0xMr_King x ┃ Tanin Islam",
+  "reactBy": {
+    "delete": [
+      "🗑️",
+      "❌",
+      "😠",
+      "😡",
+      "😾"
+    ],
+    "kick": [
+      "👟",
+      "🦵"
+    ]
+  },
+  "reactUnsend": {
+    "enable": false,
+    "emojis": [
+      "😡",
+      "🤬"
+    ],
+    "onlyAdmin": true,
+    "notes": "when a bot admin reacts with one of these emojis, the reacted bot message is unsent"
+  },
+  "advancedGuard": {
+    "enable": true,
+    "antiflood": {
+      "enable": true,
+      "defaultLimit": 8,
+      "defaultWindowMs": 10000,
+      "notes": "per-group opt-in through the guard command; messages over the limit are removed"
+    },
+    "antilink": {
+      "enable": true,
+      "notes": "per-group opt-in through the guard command; common invite links are removed"
+    },
+    "protect": {
+      "enable": true,
+      "notes": "per-group opt-in through the protect command; restores group identity after non-admin changes"
+    },
+    "notes": "global kill switch for fork-derived group protection features"
+  },
+  "whiteListMode": {
+    "enable": false,
+    "whiteListIds": [],
+    "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
+  },
+  "nickNameBot": "Aliya Official",
+  "prefix": "(",
+  "typingIndicator": {
+    "enable": true,
+    "refreshMs": 5000,
+    "onReply": true,
+    "onReaction": true,
+    "notes": "shows the bot is typing while a command runs; refreshMs keeps it visible on slow commands"
+  },
+  "commandSpamGuard": {
+    "enable": true,
+    "seconds": 7,
+    "notify": true,
+    "notes": "global per-user command throttle; blocks another command until seconds pass and shows a wait message"
+  },
+  "database": {
+    "type": "sqlite",
+    "fallbackToJson": true,
+    "notes": "sqlite3 is the fast primary store. If its native binding is missing or incompatible, the bot automatically uses the built-in JSON database instead of stopping.",
+    "uriMongodb": "",
+    "autoSyncWhenStart": false,
+    "autoSyncMinIntervalMs": 21600000,
+    "autoRefreshThreadInfoFirstTime": true
+  },
+  "timeZone": "Asia/Dhaka",
+  "credentials": {
+    "gmailAccount": {
+      "email": "maybesaim12@gmail.com",
+      "clientId": "100897454411-5r8hk9opvdijmogm98ksttg4asvfs3u6.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04CwY3A993tGWCgYIARAAGAQSNwF-L9IrEMdVj25IWIOrpT0HX7Lo4YXx6ce0JP-C3GjKoyWSFb_-f_N3oHRL15ZwrsQ8TpBsjmI",
+      "apiKey": ""
+    },
+    "gRecaptcha": {
+      "siteKey": "",
+      "secretKey": ""
+    }
+  },
+  "dashBoard": {
+    "enable": true,
+    "expireVerifyCode": 300000,
+    "port": 3001
+  },
+  "serverUptime": {
+    "enable": false,
+    "port": 3001,
+    "socket": {
+      "enable": true,
+      "channelName": "uptime",
+      "verifyToken": "u1940319-ea7f101121162c69af48f6ce"
+    }
+  },
+  "autoRestart": {
+    "time": null
+  },
+  "autoUptime": {
+    "enable": false,
+    "timeInterval": 180,
+    "url": ""
+  },
+  "autoLoadScripts": {
+    "enable": false,
+    "ignoreCmds": "",
+    "ignoreEvents": ""
+  },
+  "autoRefreshFbstate": true,
+  "autoReloginWhenChangeAccount": false,
+  "autoRestartWhenListenMqttError": true,
+  "restartListenMqtt": {
+    "enable": true,
+    "timeRestart": 3600000,
+    "delayAfterStopListening": 2000,
+    "logNoti": true
+  },
+  "notiWhenListenMqttError": {
+    "gmail": {
+      "enable": false,
+      "emailGetNoti": ""
+    },
+    "telegram": {
+      "enable": false,
+      "botToken": "",
+      "chatId": ""
+    },
+    "discordHook": {
+      "enable": false,
+      "webhookUrl": ""
+    }
+  },
+  "hideNotiMessage": {
+    "commandNotFound": false,
+    "adminOnly": false,
+    "threadBanned": false,
+    "userBanned": false,
+    "needRoleToUseCmd": false,
+    "needRoleToUseCmdOnReply": false,
+    "needRoleToUseCmdOnReaction": false,
+    "developerOnly": false,
+    "vipOnly": false
+  },
+  "logEvents": {
+    "disableAll": false,
+    "message": true,
+    "message_reaction": true,
+    "message_unsend": true,
+    "message_reply": true,
+    "event": true,
+    "read_receipt": false,
+    "typ": false,
+    "presence": false
+  },
+  "optionsFca": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "updatePresence": true,
+    "listenTyping": true,
+    "logLevel": "error",
+    "selfListen": false,
+    "selfListenEvent": true,
+    "autoMarkDelivery": false,
+    "autoReconnect": false
+  }
+}
