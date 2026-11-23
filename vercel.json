@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "installCommand": "npm install --no-audit --no-fund --ignore-scripts",
+  "rewrites": [
+    { "source": "/health", "destination": "/api/status" },
+    { "source": "/status.json", "destination": "/api/status" }
+  ]
+}

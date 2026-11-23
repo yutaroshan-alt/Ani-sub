@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: bot1-aliya
+    runtime: node
+    plan: free
+    nodeVersion: "20.20.1"
+    buildCommand: npm install --no-audit --no-fund
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: ACCOUNT_TXT
+        sync: false
+      - key: ALIYA_SELF_PING
+        value: "1"
+      - key: NODE_ENV
+        value: "production"
+      - key: API_BASE_URL
+        value: "https://0x-mr-king-api-server-i73g.vercel.app"
